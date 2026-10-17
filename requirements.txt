@@ -1,0 +1,3 @@
+cryptography>=42
+# для сборки standalone-файла (pack --standalone):
+pyinstaller>=6

@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+*.enc
+*_packed.py
+*_bundle.py
+*_app
+build/
+dist/
+*.spec
